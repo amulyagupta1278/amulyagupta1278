@@ -1,6 +1,8 @@
 <h2 align='center'> 🙋🏻‍♂️ Hi over there, I'm AMULYA!🧑🏻‍💻</h2>
 <p align="center">
 <br><img src="https://github.com/amulyagupta1278/amulyagupta1278/blob/main/Developer.gif" width="450px"><br><br>
+  <br>
+  <samp> I'm a Avid learner, tinkerer and python developer mastering in Numpy, Pandas, Tkinter, Cv2, Turtle and Matplotlib. Studing in Birla Institute of Technology and Science(BITS), Pilani, IND. I love what I do and I aspire to create new ways to understand and design, experiences that can help solve problems and communicate both in anesthetic and functional sense. And Love sharing my knowledge. Some of the technologies I enjoy working with include Python, Android, Flutter and other JS frameworks and UI/UX </samp>
 
 
 <!--

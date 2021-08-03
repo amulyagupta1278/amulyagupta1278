@@ -1,4 +1,8 @@
-### 🙋🏻‍♂️ Hi over there, I'm AMULYA!🧑🏻‍💻
+###                                                                   🙋🏻‍♂️ Hi over there, I'm AMULYA!🧑🏻‍💻
+
+
+![image](https://user-images.githubusercontent.com/57293706/128069186-ec7828ef-6c63-43f8-b8f0-349760764d18.png)
+
 
 <!--
 **amulyagupta1278/amulyagupta1278** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

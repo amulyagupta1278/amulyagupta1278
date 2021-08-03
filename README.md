@@ -1,6 +1,6 @@
 <h2 align='center'> 🙋🏻‍♂️ Hi over there, I'm AMULYA!🧑🏻‍💻</h2>
 <p align="center">
-<br><img src=""https://github.com/" width="450px"><br><br>
+<br><img src="https://github.com/amulyagupta1278/amulyagupta1278/blob/main/Developer.gif" width="450px"><br><br>
 
 
 <!--

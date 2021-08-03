@@ -1,7 +1,6 @@
-###                                                                   🙋🏻‍♂️ Hi over there, I'm AMULYA!🧑🏻‍💻
-
-
-![image](https://user-images.githubusercontent.com/57293706/128069186-ec7828ef-6c63-43f8-b8f0-349760764d18.png)
+<h2 align='center'> 🙋🏻‍♂️ Hi over there, I'm AMULYA!🧑🏻‍💻</h2>
+<p align="center">
+<br><img src=""https://github.com/" width="450px"><br><br>
 
 
 <!--

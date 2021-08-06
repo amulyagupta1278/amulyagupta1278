@@ -43,9 +43,6 @@
   <img  src="https://img.shields.io/badge/artificial-intelligence%20-%23339933.svg?&style=for-the-badge&logo=react&logoColor=white%22" />&nbsp;&nbsp;&nbsp;
 </p>
 
-<hr>
-<h3 align='center'  >💬  Sometimes I like to write things here...</h4>
-<br>
 
 
 <!--

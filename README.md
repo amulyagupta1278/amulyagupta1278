@@ -1,61 +1,6 @@
-<h2 align='center'> 🙋🏻‍♂️ Hi over there, I'm AMULYA!🧑🏻‍💻</h2>
-<p align="center">
-<br><img src="https://github.com/amulyagupta1278/amulyagupta1278/blob/main/Developer.gif" width="450px"><br><br>
-  <br>
-  <samp> I'm a Avid learner, tinkerer and python developer mastering in Numpy, Pandas, Tkinter, Cv2, Turtle and Matplotlib. Studing in Birla Institute of Technology and Science(BITS), Pilani, IND. I love what I do and I aspire to create new ways to understand and design, experiences that can help solve problems and communicate both in anesthetic and functional sense. And Love sharing my knowledge. Some of the technologies I enjoy working with include Python, Android, Flutter and other JS frameworks and UI/UX </samp>
+<h2 align='center'> 🙋🏻‍♂️ Hi there, I'm AMULYA! 🧑🏻‍💻</h2> <p align="center"> <br><img src="https://github.com/amulyagupta1278/amulyagupta1278/blob/main/Developer.gif" width="450px"><br><br> <br> <samp> I’m an AI/ML Engineer with over 2 years of experience building and deploying production-grade machine learning models and full-stack applications. My expertise includes Python, TensorFlow, PyTorch, and working with cloud services like Google Cloud and Vertex AI. I graduated from Birla Institute of Technology and Science (BITS), Pilani, with a focus on Data Science, and I love solving real-world business challenges through innovative AI solutions.</samp>
 
-<h3  align='center'>📬 Find me around the web 🌎 </h3>
+<samp> I’ve had the opportunity to lead projects such as transitioning from monolithic to microservices architecture and developing AI models for tasks like text summarization and face recognition. I’m passionate about continuous learning and sharing my knowledge with the community.</samp>
 
-<p align='center'>
-  <a href="#"></a>
-</p>
-
-
-<p align='center'>
-<a href="https://medium.com/@f20191278"><img src="https://img.shields.io/badge/medium-%231DA1F2.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/f20191278"><img src="https://img.shields.io/badge/HackerRank%20-%23339903.svg?&style=for-the-badge&logo=HackerRank&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/amulya-gupta-bits-pilani/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:f20191278@pilani.bits-pilani.ac.in?subject=Olá%20AMULYA"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
-
-<hr>
-<h3 align='center'> 🔭  I’m currently working with ...</h4>
-
-
-<h4 align='center'> Backend and Others</h5>
-<p align='center'>
-  <img src="https://img.shields.io/badge/android%20-%23e34f26.svg?&style=for-the-badge&logo=android&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/pandas%20-%231572B6.svg?&style=for-the-badge&logo=pandas&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/python3%20-%23e34f26.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/numpy%20-%23F7DF1E.svg?&style=for-the-badge&logo=numpy&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/kotlin%20-%231572B6.svg?&style=for-the-badge&logo=kotlin&logoColor=white" />&nbsp;&nbsp;
-  
-</p>
-<hr>
-
-<h3 align='center'> 🌱  I'm currently learning...</h4>
-<br>
-<p align='center'>
-  <img  src="https://img.shields.io/badge/machine-learning%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img  src="https://img.shields.io/badge/Tensorflow%20-%23339903.svg?&style=for-the-badge&logo=Tensorflow&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img  src="https://img.shields.io/badge/Flutter%20-%23c21325.svg?&style=for-the-badge&logo=flutter&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img  src="https://img.shields.io/badge/artificial-intelligence%20-%23339933.svg?&style=for-the-badge&logo=react&logoColor=white%22" />&nbsp;&nbsp;&nbsp;
-</p>
-
-
-
-<!--
-**amulyagupta1278/amulyagupta1278** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<samp> Technologies I work with include Python, TypeScript, Node.js, and cloud-based machine learning services.</samp>
+</p> <h3 align='center'>📬 Find me around the web 🌎</h3> <p align='center'> <a href="https://medium.com/@f20191278"><img src="https://img.shields.io/badge/medium-%231DA1F2.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.hackerrank.com/f20191278"><img src="https://img.shields.io/badge/HackerRank%20-%23339903.svg?&style=for-the-badge&logo=HackerRank&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/amulya-gupta-bits-pilani/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:amulyagupta2001@gmail.com?subject=Hello%20AMULYA"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; </p> <hr> <h3 align='center'> 🔭 I’m currently working with ...</h3> <h4 align='center'> Backend and Others</h4> <p align='center'> <img src="https://img.shields.io/badge/python3%20-%23e34f26.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp; <img src="https://img.shields.io/badge/numpy%20-%23F7DF1E.svg?&style=for-the-badge&logo=numpy&logoColor=white" />&nbsp;&nbsp; <img src="https://img.shields.io/badge/pandas%20-%231572B6.svg?&style=for-the-badge&logo=pandas&logoColor=white" />&nbsp;&nbsp; <img src="https://img.shields.io/badge/tensorflow%20-%23339903.svg?&style=for-the-badge&logo=tensorflow&logoColor=white" />&nbsp;&nbsp; <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp; </p> <hr> <h3 align='center'> 🌱 I'm currently learning...</h3> <p align='center'> <img src="https://img.shields.io/badge/machine-learning%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp; <img src="https://img.shields.io/badge/artificial-intelligence%20-%23339933.svg?&style=for-the-badge&logo=ai&logoColor=white" />&nbsp;&nbsp; <img src="https://img.shields.io/badge/flutter%20-%23c21325.svg?&style=for-the-badge&logo=flutter&logoColor=white" />&nbsp;&nbsp; </p>

@@ -19,6 +19,7 @@ I hold an **M.Sc. in General Studies with a Data Science Minor** from **BITS Pil
 ---
 ### 🛠️ Tech Stack
 <p align="center">
+  
   <h4>🧠 Artificial Intelligence &amp; ML</h4>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
@@ -41,6 +42,7 @@ I hold an **M.Sc. in General Studies with a Data Science Minor** from **BITS Pil
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4.svg?&style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
   <img src="https://img.shields.io/badge/BigQuery-669DF6.svg?&style=for-the-badge&logo=googlecloud&logoColor=white" alt="BigQuery" />
   <img src="https://img.shields.io/badge/PowerBI-F2C811.svg?&style=for-the-badge&logo=powerbi&logoColor=black" alt="PowerBI" />
+  
 </p>
 
  

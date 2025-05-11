@@ -60,8 +60,8 @@ I hold an **M.Sc. in General Studies with a Data Science Minor** from **BITS Pil
 ### 💡 Projects That Inspire Me
 - 🔍 **[Age-Invariant Face Recognition](https://github.com/amulyagupta1278/Age-Inverient-Face-Recognition-)** – Built a deep learning system that achieved 80% accuracy on aging face datasets using feature progression techniques.
 - 📄 **[Text Summarization & Sentiment Analysis](https://github.com/amulyagupta1278/Text-Sentiment-Analysis-using-CNN-LSTM-and-LSTM-CNN)** – Developed and deployed LSTM/CNN models achieving 88–89% accuracy; real-time dashboards built for product teams.
-- 🧩 **[Microservices Migration at Classplus]** – Spearheaded the shift from monolith to microservices, boosting scalability and team autonomy.
-- 🧠 **[AI Campaign Optimization @ Adobe]** – Implemented deep learning pipelines for Adobe's content production, resulting in a 15% engagement increase.
+- 🧩 **Microservices Migration at Classplus** – Spearheaded the shift from monolith to microservices, boosting scalability and team autonomy.
+- 🧠 **AI Campaign Optimization @ Adobe** – Implemented deep learning pipelines for Adobe's content production, resulting in a 15% engagement increase.
 
 ---
 

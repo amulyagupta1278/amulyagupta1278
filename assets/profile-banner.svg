@@ -28,6 +28,7 @@
     <circle cx="92" cy="60" r="6" fill="#FFD43B"/>
     <circle cx="114" cy="60" r="6" fill="#69DB7C"/>
     <text x="140" y="66" fill="#8B9CB5" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16">amulya@production:~</text>
+    <text x="1130" y="66" text-anchor="end" fill="#EAF2FF" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16">AMULYA GUPTA / AI SYSTEMS ENGINEER</text>
   </g>
 
   <text x="70" y="142" fill="#EAF2FF" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="54" font-weight="700" letter-spacing="-1.5">I teach AI systems to survive</text>
@@ -52,5 +53,5 @@
     <path d="M0-54V-82M47 27L71 41M-47 27L-71 41" stroke="#EAF2FF" stroke-width="2"/>
   </g>
 
-  <text x="1010" y="326" text-anchor="end" fill="#65758B" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13">AI / MLOPS / BACKEND</text>
+  <text x="1130" y="326" text-anchor="end" fill="#65758B" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13">BUILD → MEASURE → GUARD → RELEASE → OBSERVE</text>
 </svg>

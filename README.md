@@ -1,83 +1,173 @@
+<h1 align="center">👋 Hi, I'm Amulya Gupta</h1>
+
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Amulya Gupta - I teach AI systems to survive contact with production" width="100%" />
+  <img src="https://github.com/amulyagupta1278/amulyagupta1278/blob/main/Developer.gif" width="400px" alt="coding"/>
 </p>
 
 <p align="center">
-  <a href="https://amulyagupta.in"><b>ENTER PORTFOLIO</b></a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/amulya-gupta-bits-pilani/"><b>LINKEDIN</b></a>
-  &nbsp;·&nbsp;
-  <a href="mailto:amulyagupta2001@gmail.com"><b>START A CONVERSATION</b></a>
+🚀 MLOps & AI Engineer | Python Backend Developer | Building Production AI Systems
 </p>
 
-### I don't just make models answer. I make them earn the right to ship.
+<p align="center">
+I build scalable AI systems — from ML pipelines and inference APIs to production-ready data platforms.
+</p>
 
-I'm **Amulya**, an AI & MLOps engineer working on the machinery around intelligent systems: retrieval, evaluation, release safety, observability, and recovery.
+---
 
-My question is rarely *“does the demo work?”*<br>
-It is *“what happens when the corpus drifts, latency spikes, evidence weakens, or the model is confidently wrong?”*
+## 🌐 Portfolio
+🔗 **Website:** https://amulyagupta.in
 
-<br>
+Explore my projects, case studies, and blog posts about building real-world AI infrastructure.
 
-<table>
-  <tr>
-    <td align="center"><b>5</b><br><sub>retrieval systems benchmarked</sub></td>
-    <td align="center"><b>170</b><br><sub>answers evaluated</sub></td>
-    <td align="center"><b>62</b><br><sub>automated tests in one agent system</sub></td>
-    <td align="center"><b>10 → 50 → 100</b><br><sub>guarded canary rollout</sub></td>
-  </tr>
-</table>
+---
 
-## ◉ Flagship transmission: RetrievalOps
+# 👨🏻‍💻 About Me
 
-> **One corpus enters. Competing retrieval policies fight for production. Only evidence decides what ships.**
+I am a **Software Engineer focused on AI Engineering and MLOps**, building production systems that bridge the gap between **machine learning research and real-world deployment**.
 
-**[RetrievalOps](https://github.com/amulyagupta1278/retrievalops)** benchmarks lexical, dense, and hybrid retrieval against human-reviewed judgments, then activates only a policy that clears frozen quality and latency gates.
+My work focuses on designing **scalable ML infrastructure**, deploying **containerized inference APIs**, and developing **data pipelines powering large-scale systems**.
 
-```text
-UPLOAD CORPUS
-     │
-     ├── BM25 ───────┐
-     ├── DENSE ──────┼──▶ EVALUATE ──▶ QUALITY GATE ──▶ CANARY ──▶ PRODUCTION
-     └── HYBRID ─────┘         ▲                              │
-                               └──────── DRIFT + ROLLBACK ─────┘
-```
+💡 What I enjoy building:
 
-`content-safe lineage` · `policy selection` · `drift-triggered retraining` · `Prometheus` · `automatic rollback` · `signed containers`
+- End-to-end **ML pipelines**
+- **FastAPI inference services**
+- **MLOps infrastructure**
+- **Scalable backend systems**
+- **Data engineering pipelines**
 
-[Explore the system →](https://github.com/amulyagupta1278/retrievalops) &nbsp; [Read the evidence model →](https://github.com/amulyagupta1278/retrievalops#prove-the-repository)
+🎓 Education:
 
-## ◌ Systems in orbit
+- **M.Tech in Artificial Intelligence & Machine Learning** — BITS Pilani (WILP)
+- **M.Sc. with Data Science Minor** — BITS Pilani
 
-| | System | The hard question |
-|---|---|---|
-| **01** | **[RAG Retrieval Lab](https://github.com/amulyagupta1278/rag-retrieval-dissertation)** | Which retrieval strategy wins when 34 questions, five systems, human judgments, latency, and answer faithfulness are measured together? |
-| **02** | **[AI Operations Command Center](https://github.com/amulyagupta1278/incident-response-system)** | Can agents investigate an incident without losing evidence, security boundaries, or a deterministic escape hatch? |
-| **03** | **[Agentic Ticket Automation](https://github.com/amulyagupta1278/agentic-ai-ticket-automation)** | Can support automation move beyond classification into resolution, prevention, monitoring, and escalation? |
+---
 
-## ◇ Field manual
+# 🛠 Tech Stack
 
-```yaml
-measure_before_optimizing: true
-release_behind_quality_gates: true
-design_the_failure_path_first: true
-keep_evidence_reproducible: true
-observe_reality_over_assumptions: always
-```
+## 🧠 AI / Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-**Core instruments**<br>
-`Python` · `FastAPI` · `PostgreSQL` · `MLflow` · `Docker` · `Kubernetes` · `GitHub Actions` · `Prometheus` · `Grafana` · `AWS` · `GCP`
+## ⚙️ AI Infrastructure / MLOps
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-## △ Current coordinates
+## 🔧 Backend & Data Engineering
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prefect](https://img.shields.io/badge/Prefect-070707?style=for-the-badge)
 
-- Building at the intersection of **AI engineering, MLOps, backend systems, and retrieval research**
-- Completing an **M.Tech in Artificial Intelligence & Machine Learning at BITS Pilani**
-- Interested in systems that can **abstain, explain, recover, and improve**
-- Open to ambitious work in **AI infrastructure, retrieval, evaluation, and production reliability**
+## ☁️ DevOps & Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=googlecloud)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana)
 
-<br>
+---
+
+# 🚀 Featured Projects
+
+### ❤️ Heart Disease Prediction — End-to-End MLOps System
+
+Full ML lifecycle pipeline:
+
+- Training pipeline
+- MLflow experiment tracking
+- FastAPI inference service
+- Docker + Kubernetes deployment
+- Prometheus + Grafana monitoring
+- CI/CD with GitHub Actions
+
+---
+
+### 📊 Customer Churn Prediction — Automated Data Pipeline
+
+Production ELT pipeline using:
+
+- Python
+- Prefect workflow orchestration
+- PostgreSQL
+- Scikit-learn
+
+📈 Achieved:
+
+- **90%+ model accuracy**
+- **40% faster retraining cycles**
+
+---
+
+### 🧠 Adobe Journey Optimizer — Campaign Infrastructure
+
+Worked on large-scale campaign delivery infrastructure.
+
+Impact:
+
+- Delivered **40+ production campaigns**
+- Reached **20M+ users**
+- Zero critical post-launch issues
+
+---
+
+# 🌱 Currently Exploring
+
+- LLM fine-tuning
+- Retrieval-Augmented Generation (RAG)
+- AI agent systems
+- Production MLOps architecture
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <b>BUILD THE MODEL · TEST THE SYSTEM · OBSERVE REALITY</b><br>
-  <sub><a href="https://amulyagupta.in">amulyagupta.in</a> · <a href="https://medium.com/@f20191278">writing</a> · <a href="mailto:amulyagupta2001@gmail.com">email</a></sub>
+
+<img src="https://github-readme-stats.vercel.app/api?username=amulyagupta1278&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amulyagupta1278&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🤝 Open to Collaborations
+
+I enjoy collaborating on:
+
+- AI infrastructure
+- MLOps systems
+- Backend engineering
+- Open source AI projects
+
+---
+
+# 📬 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/amulya-gupta-bits-pilani/">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://medium.com/@f20191278">
+<img src="https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/f20191278">
+<img src="https://img.shields.io/badge/HackerRank-%23339903.svg?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="mailto:amulyagupta2001@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+<i>"Engineering AI systems that actually ship."</i>
 </p>

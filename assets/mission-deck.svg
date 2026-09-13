@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1040" viewBox="0 0 1000 1040" role="img" aria-labelledby="title desc">
+  <title id="title">AMULYA.OS Mission Deck</title>
+  <desc id="desc">Four AI engineering systems, an operating protocol, verified professional signals, and a constellation of AI, data, platform, and observability tools.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07111f"/><stop offset=".55" stop-color="#0b1020"/><stop offset="1" stop-color="#160d24"/></linearGradient>
+    <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#34d399"/><stop offset=".5" stop-color="#22d3ee"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0d1c30"/><stop offset="1" stop-color="#0a1323"/></linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#fff" stroke-opacity=".025"/></pattern>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <style>
+      .m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}.s{font-family:Inter,ui-sans-serif,system-ui,sans-serif}.label{fill:#647895;font-size:11px;letter-spacing:2px}.head{fill:#eef4ff;font-size:17px;font-weight:700}.copy{fill:#9fb0c7;font-size:12px}.tag{fill:#77dff0;font-size:10px;letter-spacing:.7px}.card{fill:url(#card);stroke:#273b57}.pulse{animation:pulse 2.5s ease-in-out infinite}.flow{animation:flow 8s linear infinite}.scan{animation:scan 5s ease-in-out infinite}@keyframes pulse{0%,100%{opacity:.4}50%{opacity:1}}@keyframes flow{to{stroke-dashoffset:-120}}@keyframes scan{0%,100%{transform:translateX(0);opacity:0}15%,85%{opacity:.35}50%{transform:translateX(870px)}}@media(prefers-reduced-motion:reduce){.pulse,.flow,.scan{animation:none}}
+    </style>
+  </defs>
+  <rect width="1000" height="1040" rx="24" fill="url(#bg)"/><rect width="1000" height="1040" rx="24" fill="url(#grid)"/><rect x="1" y="1" width="998" height="1038" rx="23" fill="none" stroke="#2c3f5d"/>
+
+  <g class="m"><text x="42" y="49" fill="#22d3ee" font-size="13" letter-spacing="2">01 / SYSTEMS_ONLINE</text><circle cx="927" cy="43" r="4" fill="#34d399" class="pulse" filter="url(#glow)"/><text x="941" y="47" fill="#6ee7b7" font-size="10">4 ACTIVE</text></g><path d="M42 66H958" stroke="#263750"/>
+  <path d="M500 86V414M42 250H958" stroke="#203149" stroke-dasharray="3 7"/>
+
+  <g transform="translate(42 86)"><rect class="card" width="438" height="144" rx="14"/><rect x="0" width="4" height="144" rx="2" fill="#22d3ee"/><circle cx="26" cy="25" r="5" fill="#22d3ee" class="pulse"/><text x="42" y="30" class="m label">SYS.01 / RETRIEVAL</text><text x="22" y="66" class="s head">RetrievalOps</text><text x="22" y="91" class="s copy">Corpus-aware policy selection and safe release.</text><text x="22" y="121" class="m tag">EVALUATE  ·  OBSERVE  ·  RELEASE</text></g>
+  <g transform="translate(520 86)"><rect class="card" width="438" height="144" rx="14"/><rect x="0" width="4" height="144" rx="2" fill="#a78bfa"/><circle cx="26" cy="25" r="5" fill="#a78bfa" class="pulse"/><text x="42" y="30" class="m label">SYS.02 / RESEARCH</text><text x="22" y="66" class="s head">RAG Retrieval Lab</text><text x="22" y="91" class="s copy">Beyond one-size-fits-all retrieval quality.</text><text x="22" y="121" class="m tag">BENCHMARK  ·  ADAPT  ·  LEARN</text></g>
+  <g transform="translate(42 270)"><rect class="card" width="438" height="144" rx="14"/><rect x="0" width="4" height="144" rx="2" fill="#34d399"/><circle cx="26" cy="25" r="5" fill="#34d399" class="pulse"/><text x="42" y="30" class="m label">SYS.03 / AGENTS</text><text x="22" y="66" class="s head">Agent Support Desk</text><text x="22" y="91" class="s copy">Ticket workflows with agent orchestration.</text><text x="22" y="121" class="m tag">TRIAGE  ·  REASON  ·  AUTOMATE</text></g>
+  <g transform="translate(520 270)"><rect class="card" width="438" height="144" rx="14"/><rect x="0" width="4" height="144" rx="2" fill="#fb7185"/><circle cx="26" cy="25" r="5" fill="#fb7185" class="pulse"/><text x="42" y="30" class="m label">SYS.04 / MLOPS</text><text x="22" y="66" class="s head">Production ML Core</text><text x="22" y="91" class="s copy">The full model lifecycle, instrumented.</text><text x="22" y="121" class="m tag">TRACK  ·  SERVE  ·  MONITOR</text></g>
+
+  <g class="m"><text x="42" y="467" fill="#22d3ee" font-size="13" letter-spacing="2">02 / OPERATING_PROTOCOL</text><text x="958" y="467" text-anchor="end" class="label">SIGNAL → DECISION → SYSTEM</text></g><path d="M42 484H958" stroke="#263750"/>
+  <path d="M144 550H856" stroke="#263b56" stroke-width="3" stroke-dasharray="8 10" class="flow"/><circle cx="144" cy="550" r="7" fill="#34d399" filter="url(#glow)"/><circle cx="500" cy="550" r="7" fill="#22d3ee" filter="url(#glow)"/><circle cx="856" cy="550" r="7" fill="#a78bfa" filter="url(#glow)"/>
+  <g class="m" text-anchor="middle"><text x="144" y="527" class="head">BUILD</text><text x="144" y="581" class="tag">USER OUTCOMES</text><text x="500" y="527" class="head">VERIFY</text><text x="500" y="581" class="tag">TESTS + EVALUATION</text><text x="856" y="527" class="head">OBSERVE</text><text x="856" y="581" class="tag">QUALITY + LATENCY</text></g>
+
+  <g class="m"><text x="42" y="643" fill="#22d3ee" font-size="13" letter-spacing="2">03 / VERIFIED_SIGNALS</text></g><path d="M42 660H958" stroke="#263750"/>
+  <g transform="translate(42 682)"><rect class="card" width="280" height="104" rx="14"/><text x="22" y="38" class="s" fill="#fff" font-size="28" font-weight="750">40+</text><text x="22" y="66" class="m tag">PRODUCTION CAMPAIGNS</text><text x="22" y="87" class="s copy">Adobe Journey Optimizer</text></g>
+  <g transform="translate(360 682)"><rect class="card" width="280" height="104" rx="14"/><text x="22" y="38" class="s" fill="#fff" font-size="28" font-weight="750">20M+</text><text x="22" y="66" class="m tag">USERS REACHED</text><text x="22" y="87" class="s copy">Large-scale delivery systems</text></g>
+  <g transform="translate(678 682)"><rect class="card" width="280" height="104" rx="14"/><text x="22" y="38" class="s" fill="#fff" font-size="28" font-weight="750">BITS</text><text x="22" y="66" class="m tag">M.TECH AI &amp; ML</text><text x="22" y="87" class="s copy">Pilani · WILP</text></g>
+
+  <g class="m"><text x="42" y="839" fill="#22d3ee" font-size="13" letter-spacing="2">04 / TOOLING_CONSTELLATION</text><text x="958" y="839" text-anchor="end" class="label">PRODUCTION PATH</text></g><path d="M42 856H958" stroke="#263750"/>
+  <g transform="translate(42 878)" class="m">
+    <rect width="916" height="120" rx="14" fill="#081321" stroke="#263750"/>
+    <rect x="20" y="18" width="876" height="2" fill="url(#cyan)" opacity=".5"/>
+    <rect x="20" y="18" width="4" height="84" rx="2" fill="#67e8f9" class="scan" filter="url(#glow)"/>
+    <g transform="translate(20 34)"><rect width="92" height="28" rx="14" fill="#162b43" stroke="#3776ab"/><text x="46" y="19" text-anchor="middle" class="tag">PYTHON</text></g>
+    <g transform="translate(122 34)"><rect width="92" height="28" rx="14" fill="#2b1b23" stroke="#ee4c2c"/><text x="46" y="19" text-anchor="middle" class="tag">PYTORCH</text></g>
+    <g transform="translate(224 34)"><rect width="106" height="28" rx="14" fill="#2b2116" stroke="#ff6f00"/><text x="53" y="19" text-anchor="middle" class="tag">TENSORFLOW</text></g>
+    <g transform="translate(340 34)"><rect width="92" height="28" rx="14" fill="#102d2a" stroke="#009688"/><text x="46" y="19" text-anchor="middle" class="tag">FASTAPI</text></g>
+    <g transform="translate(442 34)"><rect width="82" height="28" rx="14" fill="#11283a" stroke="#0194e2"/><text x="41" y="19" text-anchor="middle" class="tag">MLFLOW</text></g>
+    <g transform="translate(534 34)"><rect width="82" height="28" rx="14" fill="#1d2027" stroke="#fff"/><text x="41" y="19" text-anchor="middle" class="tag">DOCKER</text></g>
+    <g transform="translate(626 34)"><rect width="116" height="28" rx="14" fill="#14213d" stroke="#326ce5"/><text x="58" y="19" text-anchor="middle" class="tag">KUBERNETES</text></g>
+    <g transform="translate(752 34)"><rect width="66" height="28" rx="14" fill="#252117" stroke="#ff9900"/><text x="33" y="19" text-anchor="middle" class="tag">AWS</text></g>
+    <g transform="translate(828 34)"><rect width="68" height="28" rx="14" fill="#172131" stroke="#4285f4"/><text x="34" y="19" text-anchor="middle" class="tag">GCP</text></g>
+    <g transform="translate(70 76)"><rect width="102" height="28" rx="14" fill="#1d1727" stroke="#8b5cf6"/><text x="51" y="19" text-anchor="middle" class="tag">POSTGRESQL</text></g>
+    <g transform="translate(182 76)"><rect width="92" height="28" rx="14" fill="#171d2b" stroke="#607dff"/><text x="46" y="19" text-anchor="middle" class="tag">PREFECT</text></g>
+    <g transform="translate(284 76)"><rect width="116" height="28" rx="14" fill="#281a16" stroke="#e6522c"/><text x="58" y="19" text-anchor="middle" class="tag">PROMETHEUS</text></g>
+    <g transform="translate(410 76)"><rect width="92" height="28" rx="14" fill="#291d14" stroke="#f46800"/><text x="46" y="19" text-anchor="middle" class="tag">GRAFANA</text></g>
+    <g transform="translate(512 76)"><rect width="106" height="28" rx="14" fill="#172333" stroke="#7aa2f7"/><text x="53" y="19" text-anchor="middle" class="tag">SCIKIT-LEARN</text></g>
+    <g transform="translate(628 76)"><rect width="92" height="28" rx="14" fill="#172529" stroke="#34d399"/><text x="46" y="19" text-anchor="middle" class="tag">RETRIEVAL</text></g>
+    <g transform="translate(730 76)"><rect width="116" height="28" rx="14" fill="#24182e" stroke="#a78bfa"/><text x="58" y="19" text-anchor="middle" class="tag">EVALUATION</text></g>
+  </g>
+  <text x="500" y="1023" text-anchor="middle" class="m" fill="#536983" font-size="10" letter-spacing="2">THE STACK IS A MEANS. RELIABLE INTELLIGENCE IS THE PRODUCT.</text>
+</svg>

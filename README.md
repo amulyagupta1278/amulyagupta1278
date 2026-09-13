@@ -1,173 +1,82 @@
-<h1 align="center">👋 Hi, I'm Amulya Gupta</h1>
+<div align="center">
+  <img src="./assets/amulya-os.svg" width="100%" alt="AMULYA.OS: Amulya Gupta builds reliable AI systems from retrieval to production" />
+</div>
 
-<p align="center">
-  <img src="https://github.com/amulyagupta1278/amulyagupta1278/blob/main/Developer.gif" width="400px" alt="coding"/>
-</p>
+<div align="center">
+  <a href="https://amulyagupta.in"><b>ENTER PORTFOLIO</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/amulya-gupta-bits-pilani/"><b>LINKEDIN</b></a>
+  &nbsp;·&nbsp;
+  <a href="mailto:amulyagupta2001@gmail.com"><b>OPEN A CHANNEL</b></a>
+</div>
 
-<p align="center">
-🚀 MLOps & AI Engineer | Python Backend Developer | Building Production AI Systems
-</p>
+<br />
 
-<p align="center">
-I build scalable AI systems — from ML pipelines and inference APIs to production-ready data platforms.
-</p>
+```text
+signal.in ──► retrieve ──► reason ──► evaluate ──► ship ──► observe
+                 ▲                                      │
+                 └────────────── learn ─────────────────┘
+```
 
----
+I’m **Amulya Gupta**, an AI & MLOps engineer working where promising models meet unforgiving production systems. I build retrieval systems, ML platforms, and Python services designed to remain useful after the demo.
 
-## 🌐 Portfolio
-🔗 **Website:** https://amulyagupta.in
+> Current question: **How should a retrieval system adapt when every corpus behaves differently?**
 
-Explore my projects, case studies, and blog posts about building real-world AI infrastructure.
+## `01 / SYSTEMS_ONLINE`
 
----
+| System | Mission | Engineering signal |
+| :-- | :-- | :-- |
+| **[RetrievalOps](https://github.com/amulyagupta1278/retrievalops)** | Select and safely release corpus-adaptive retrieval policies | Evaluation · observability · safe rollout |
+| **[RAG Retrieval Dissertation](https://github.com/amulyagupta1278/rag-retrieval-dissertation)** | Investigate retrieval quality beyond one-size-fits-all RAG | Research · benchmarking · Python |
+| **[Agentic Ticket Automation](https://github.com/amulyagupta1278/agentic-ai-ticket-automation)** | Explore agent-driven support workflows | Agents · orchestration · applied AI |
+| **[MLOps Assignment](https://github.com/amulyagupta1278/MLOPS_Assignment)** | Run heart-disease prediction through the ML lifecycle | MLflow · FastAPI · Docker · monitoring |
 
-# 👨🏻‍💻 About Me
+<details>
+<summary><b>Inspect the architecture</b></summary>
+<br />
 
-I am a **Software Engineer focused on AI Engineering and MLOps**, building production systems that bridge the gap between **machine learning research and real-world deployment**.
+```mermaid
+flowchart LR
+    A[Raw corpus] --> B[Retrieval candidates]
+    B --> C[Offline evaluation]
+    C --> D{Policy gate}
+    D -->|pass| E[Versioned release]
+    D -->|fail| B
+    E --> F[Production traffic]
+    F --> G[Quality + latency signals]
+    G --> C
+```
+</details>
 
-My work focuses on designing **scalable ML infrastructure**, deploying **containerized inference APIs**, and developing **data pipelines powering large-scale systems**.
+## `02 / OPERATING_PRINCIPLES`
 
-💡 What I enjoy building:
+```yaml
+build:
+  for: measurable user outcomes
+  with: Python, retrieval, ML platforms, production APIs
+  under: tests, observability, reproducible evaluation
 
-- End-to-end **ML pipelines**
-- **FastAPI inference services**
-- **MLOps infrastructure**
-- **Scalable backend systems**
-- **Data engineering pipelines**
+avoid:
+  - demos without failure modes
+  - metrics without decisions
+  - AI complexity without operational value
+```
 
-🎓 Education:
+## `03 / FIELD_NOTES`
 
-- **M.Tech in Artificial Intelligence & Machine Learning** — BITS Pilani (WILP)
-- **M.Sc. with Data Science Minor** — BITS Pilani
+- Shipped **40+ production campaigns** reaching **20M+ users** through Adobe Journey Optimizer infrastructure.
+- Work across the full path from experimentation and data pipelines to inference APIs, containers, and monitoring.
+- Studying **M.Tech in AI & ML at BITS Pilani (WILP)** after an **M.Sc. with a Data Science minor**.
+- Exploring retrieval evaluation, agent systems, LLM adaptation, and dependable AI operations.
 
----
+## `04 / TOOLING`
 
-# 🛠 Tech Stack
-
-## 🧠 AI / Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-## ⚙️ AI Infrastructure / MLOps
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-## 🔧 Backend & Data Engineering
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prefect](https://img.shields.io/badge/Prefect-070707?style=for-the-badge)
-
-## ☁️ DevOps & Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=googlecloud)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana)
-
----
-
-# 🚀 Featured Projects
-
-### ❤️ Heart Disease Prediction — End-to-End MLOps System
-
-Full ML lifecycle pipeline:
-
-- Training pipeline
-- MLflow experiment tracking
-- FastAPI inference service
-- Docker + Kubernetes deployment
-- Prometheus + Grafana monitoring
-- CI/CD with GitHub Actions
+`Python` · `PyTorch` · `TensorFlow` · `scikit-learn` · `FastAPI` · `MLflow` · `Prefect` · `PostgreSQL` · `Docker` · `Kubernetes` · `AWS` · `GCP` · `Prometheus` · `Grafana`
 
 ---
 
-### 📊 Customer Churn Prediction — Automated Data Pipeline
-
-Production ELT pipeline using:
-
-- Python
-- Prefect workflow orchestration
-- PostgreSQL
-- Scikit-learn
-
-📈 Achieved:
-
-- **90%+ model accuracy**
-- **40% faster retraining cycles**
-
----
-
-### 🧠 Adobe Journey Optimizer — Campaign Infrastructure
-
-Worked on large-scale campaign delivery infrastructure.
-
-Impact:
-
-- Delivered **40+ production campaigns**
-- Reached **20M+ users**
-- Zero critical post-launch issues
-
----
-
-# 🌱 Currently Exploring
-
-- LLM fine-tuning
-- Retrieval-Augmented Generation (RAG)
-- AI agent systems
-- Production MLOps architecture
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=amulyagupta1278&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amulyagupta1278&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🤝 Open to Collaborations
-
-I enjoy collaborating on:
-
-- AI infrastructure
-- MLOps systems
-- Backend engineering
-- Open source AI projects
-
----
-
-# 📬 Let's Connect
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/amulya-gupta-bits-pilani/">
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://medium.com/@f20191278">
-<img src="https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/f20191278">
-<img src="https://img.shields.io/badge/HackerRank-%23339903.svg?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="mailto:amulyagupta2001@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-<i>"Engineering AI systems that actually ship."</i>
-</p>
+<div align="center">
+  <sub><code>AMULYA.OS</code> is open to collaborations in retrieval, AI infrastructure, MLOps, and production Python.</sub>
+  <br /><br />
+  <b>Build the intelligence. Engineer the trust.</b>
+</div>

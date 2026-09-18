@@ -27,8 +27,6 @@ I’m **Amulya Gupta**, an AI & MLOps engineer working where promising models me
   <a href="https://github.com/amulyagupta1278/rag-retrieval-dissertation">RAG LAB</a>
   &nbsp;·&nbsp;
   <a href="https://github.com/amulyagupta1278/agentic-ai-ticket-automation">AGENT DESK</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/amulyagupta1278/MLOPS_Assignment">MLOPS CORE</a>
 </div>
 
 <details>
@@ -38,7 +36,6 @@ I’m **Amulya Gupta**, an AI & MLOps engineer working where promising models me
 - **RetrievalOps:** corpus-adaptive retrieval policy evaluation, observability, and safe release.
 - **RAG Retrieval Dissertation:** retrieval research, benchmarking, and Python experimentation.
 - **Agentic Ticket Automation:** agent orchestration applied to support workflows.
-- **MLOps Core:** heart-disease prediction with MLflow, FastAPI, Docker, and monitoring.
 - Shipped **40+ production campaigns** reaching **20M+ users** through Adobe Journey Optimizer infrastructure.
 - Studying **M.Tech in AI & ML at BITS Pilani (WILP)** after an **M.Sc. with a Data Science minor**.
 - **Tooling:** Python, PyTorch, TensorFlow, scikit-learn, FastAPI, MLflow, Prefect, PostgreSQL, Docker, Kubernetes, AWS, GCP, Prometheus, and Grafana.
